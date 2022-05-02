@@ -6,7 +6,7 @@
                 github.com /
                 <code>
                         <a href="https://github.com/Hardijoisar/Internet_Speed_Measurement" title="Hardijoisar/Internet_Speed_Measurement on GitHub" target="blank_" style="cursor: pointer;">
-                            <a href="https://github.com/malay27" title="malay27 on GitHub" style="text-decoration: none;color: #58a6ff;" target="blank_"> malay27
+                            <a href="https://github.com/malay27" title="malay27 on GitHub" style="text-decoration: none;color: #58a6ff;" target="blank_"> Hardijoisar
                                 </a> /
                                     <a href="https://github.com/Hardijoisar/Internet_Speed_Measurement" title="Hardijoisar/Internet_Speed_Measurement on GitHub" style="text-decoration: none;color: #58a6ff;" target="blank_"> Internet_Speed_Measurement
                                         </a>
